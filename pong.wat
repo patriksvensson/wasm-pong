@@ -128,7 +128,3 @@
     (export "getBallRadius" (func $getBallRadius))
     (export "update" (func $update))
 )
-
-
-
-
